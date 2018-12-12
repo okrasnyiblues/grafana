@@ -1,0 +1,1 @@
+docker container run --env-file env.list --name grafana --net host -d (nameofimage)
